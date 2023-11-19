@@ -1,0 +1,312 @@
+1180 Wien, Kreuzgasse 48-50
+1200 Wien, Klosterneuburger Str. 23-27
+1200 Wien, Klosterneuburger Str. 76
+1020 Wien, Rembrandtstrasse 29
+1200 Wien, Brigittenauer Laende 156-158
+1210 Wien, Angyalfoeldstrasse 101
+1210 Wien, Bruenner Str. 219 Ekz
+1210 Wien, Pragerstrasse 286
+1210 Wien, Seyringerstrasse 6-8
+1210 Wien, Kuerschnerg. 9-Grossfeldz.
+1210 Wien, Fultonstrasse 26
+1220 Wien, Erzherzog Karl Strasse 57
+1220 Wien, Hosnedlgasse 2/Rennbahnweg
+1220 Wien, Breitenleer Strasse 204
+1220 Wien, Alfred Kubin Platz 1-2
+1220 Wien, Emichgasse 6
+1220 Wien, Pogrelzstr. 36/Hirschstettnerstr.
+1220 Wien, Rennbahnweg 27
+1220 Wien, Süssenbrunnerstrasse 2
+1230 Wien, Draschestrasse 66
+1230 Wien, Knotzenbachgasse 40
+1230 Wien, Karl Tornaygasse 28
+1230 Wien, Brunnerstr. 7-13
+1190 Wien, Heiligenstaedter Str. 95
+1210 Wien, Schlosshoferstrasse 13-15
+1210 Wien, Bruennerstrasse 123-125
+3100 Sankt Poelten, Dr. Adolf Schaerf Strasse 10
+3250 Wieselburg, Manker Strasse 1
+3200 Ober-Grafendorf, Manker Strasse 4b
+3244 Ruprechtshofen, Hauptstrasse 33
+3251 Purgstall An Der Erlauf, Oetscherlandstrasse 16
+2752 Woellersdorf, Wiener Neustaedter Strasse 4
+2304 Orth An Der Donau, Wiener Strasse 19-21
+2320 Schwechat, Himberger Str. 11
+3500 Krems/Donau, Wiener Str. 50
+3500 Krems/Donau, Austrasse 1-3
+2500 Baden, Voeslauerstrasse 48
+2560 Berndorf, Leobersdorfer Strasse 46
+3133 Traismauer, Wiener Strasse 60
+2301 Gross Enzersdorf, Kasernstrasse 1
+2100 Korneuburg, Wiener Strasse 40
+2294 Marchegg, Bahnstrasse 65
+2483 Ebreichsdorf, Wiener Strasse 25
+2452 Mannersdorf, Hauptstrasse 42
+2490 Ebenfurth, Wiener Neustaedter Str. 1
+2273 Hohenau An Der March, Liechtensteinerstrasse 12
+2331 Voesendorf, Laxenburger Strasse 166
+2344 Maria Enzersdorf, Hauptstrasse 39
+2630 Pottschach, F. Samwald Strasse 34
+3550 Langenlois, Wiener Strasse 51
+3340 Waidhofen/Ybbs, Pocksteiner Str. 12
+3350 Haag, Linzer Str. 29
+3470 Kirchberg/Wagr., Neustifterstr. 406
+2542 Kottingbrunn, Badner Strasse 1a
+3380 Poechlarn, Regensburgerstrasse 42
+3430 Tulln, Staasdorfer Strasse 3
+2512 Oeynhausen, Ebreichsdorfer Strasse 114
+3424 Zeiselmauer, Gewerbestrasse 1
+3160 Traisen, Mariazellerstrasse/Braeugasse
+2440 Gramatneusiedl, Oberortsstrasse 27
+3150 Wilhelmsburg, St. Poeltnerstr. 2
+2070 Retz, Sandweg 6
+3902 Vitis, Hornerstraße 19
+3170 Hainfeld, Hauptstrasse 89-91
+3830 Waidhofen An Der Thaya, Thayaparkstrasse 4
+3860 Heidenreichstein, Schremser Strasse 25b
+2000 Stockerau, Horner Strasse 72
+2000 Stockerau, Eduard-Roesch-Str. 47-51
+2020 Hollabrunn, Gewerbering 7
+2191 Gaweinstal, Wiener Strasse 54
+2136 Laa/Thaya, Thayapark 5 B
+2492 Eggendorf, Am Stampf 18
+3542 Gfoehl, Langenloiserstrasse 87
+2225 Zistersdorf, Schwemmstrasse 7
+2231 Strasshof An Der Nordbahn, Hauptstrasse B8
+2261 Angern An Der March, Wiener Strasse 7
+3331 Kematen An Der Ybbs, 35. A Strasse 1
+2201 Gerasdorf Bei Wien, Bruenner Strasse 82-86
+3100 St. Poelten, Mariazeller Str. 234
+3910 Zwettl, Andre Freyskorn Strasse 3
+2640 Gloggnitz, Johannesfelsengasse 1
+2353 Guntramsdorf, Kammeringstrasse 4
+3650 Poeggstall, Wuernsdorf 115
+2380 Perchtoldsdorf, Donauwoerther Strasse 26-30
+2351 Wr. Neudorf, Reisenbauerring
+3021 Pressbaum, Hauptstrasse 117a
+3003 Gablitz, Linzerstrasse 2
+2345 Brunn Am Gebirge, Wienerstrasse 100-102
+3130 Herzogenburg, St. Poeltner Strasse 44
+2514 Traiskirchen, Gregor-Mendel-Str. 2
+2601 Sollenau, Wr. Neustaedter Strasse 76
+2401 Fischamend, Enzersdorferstrasse 51a
+2351 Wr. Neudorf, Griesfeldstrasse 6
+3040 Neulengbach, Tullner Str. 40
+3071 Boeheimkirchen, Untere Hauptstrasse 9
+2500 Baden, Kaiser-Franz-Josef-Ring 15
+2763 Pernitz, Hauptstrasse 62
+2700 Wiener Neustadt, Stadion Strasse 42
+2700 Wiener Neustadt, Wienerstrasse 127
+8750 Judenburg, Gabelhofenstrasse 1
+8041 Graz, Liebenauer Hauptstr. 139
+8055 Graz, Otto Baumgartnerstrasse 1
+8970 Schladming, Salzburger Siedlung 239
+8990 Bad Aussee, Grundlseerstrasse 32
+8044 Graz-Mariatrost, Mariatroster Strasse 138c
+8570 Voitsberg, Grazer Vorstadt 58
+8052 Graz-Wetzelsdorf, Strassganger Strasse 149
+8401 Kalsdorf Bei Graz, Hauptstrasse 14-16
+8020 Graz, Annenstrasse 8
+8490 Bad Radkersburg, Altneudoerfl 230
+8530 Deutschlandsberg, Frauentaler Str. 110
+2421 Kittsee, Eisenstaedterstrasse 25-27
+7201 Neudoerfl, Hauptstrasse 169
+7331 Weppersdorf, Hauptstrasse 96a
+7502 Unterwart, Gewerbepark (Ipari Park) 30
+7132 Frauenkirchen, Moenchhofer Str. 7
+7210 Mattersburg, Hauptstrasse 1
+7350 Oberpullendorf, Eisenstädterstr. 73
+7423 Pinkafeld, Kreuzgasse 4
+7540 Guessing, Schulstr. 8
+7000 Eisenstadt, Ruster Strasse 55
+7111 Parndorf, Brucker Str. 2
+7100 Neusiedl Am See, Wiener Strasse 122
+7083 Purbach, Eisenstädter Str. 45
+7503 Grosspetersdorf, Hauptstrasse 99
+7400 Oberwart, Schulgasse 20
+7210 Mattersburg, Arenaplatz 10
+8380 Jennersdorf, Technologiepark 9
+7551 Stegersbach, Wiener Strasse 25-27
+9462 Bad Sankt Leonhard Im Lav, Klagenfurter Strasse 113
+9020 Klagenfurt, Goerzer Allee 2
+9020 Klagenfurt, Hoertendorfer Strasse 1
+9020 Klagenfurt, Rosentaler Strasse 133
+9122 St. Kanzian, Klopeiner Strasse 7
+9181 Feistritz Im Rosental, Hauptstrasse 311
+9545 Radenthein, Millstaetterstrasse 5
+9300 Sankt Veit An Der Glan, Lastenstrasse 32
+9433 St. Andrae Im Lavanttal, Packer Bundesstrasse 10
+9400 Wolfsberg, Klagenfurterstrasse 59
+9201 Krumpendorf, Hauptstrasse 147
+9601 Arnoldstein, Kulturhausgasse 1
+9020 Klagenfurt, Waidmannsdorfer Strasse 84/Siebenhuegelstrasse
+9073 Klagenfurt-Viktring, Keutschacher Strasse 128
+9162 Ferlach, Kirschentheuer 62
+9990 Nussdorf, B 100 Drautaler Strasse, Debant Fmz
+9100 Voelkermarkt, Umfahrungsstrasse 16
+9020 Klagenfurt, Koschatstr. 114
+9500 Villach, Wilhelm-Hohenheim Str. 22
+3100 St. Poelten, Kremser Landstrasse 13
+2230 Gaenserndorf, Bahnstrasse 73
+2700 Wiener Neustadt, Fischauergasse 80
+3710 Ziersdorf, Hauptplatz 6
+2630 Ternitz, Triester Bundesstrasse 64
+2410 Hainburg/Donau, Pressburger Reichsstr. 4
+2460 Bruck / Leitha, Industriegelaende West 10 - 12
+3950 Gmuend, Emerich-Berger-Straße 1
+3300 Amstetten, Hauptplatz 12
+2130 Mistelbach, Ernstbrunnerstrasse 4a
+3385 Prinzersdorf, Betriebsgebiet Markersdorf Nord1
+3370 Ybbs A.D. Donau, Bahnhofstr. 14
+3400 Klosterneuburg, Kierlingerstrasse 67-71
+3580 Horn, Pragerstr. 65
+4481 Asten, Handelsring 1
+4600 Wels/Thalheim, Traunufer-Arkade 1
+4063 Hoersching, Welser Heidestrasse 2
+4070 Eferding, Schmiedstrasse 28
+4045 Linz-Dornach, J.-W.-Klein-Strasse 58
+4050 Traun, Unterer Floetzerweg 40
+4222 St. Georgen/Gus, Mauthausener Str. 30
+4221 Steyregg, Linzer Strasse 16a
+4240 Freistadt, Industriestrasse 3
+4060 Leonding, Welser Strasse 17-19
+4722 Peuerbach, Ernst Dreefs Strasse
+4710 Grieskirchen, Moosham 9
+4310 Mauthausen, Heinrichsbrunn 4b
+4300 St. Valentin, Werkstrasse/Kriemhildstrasse 20
+4600 Wels, Eiselbergstrasse 4
+4020 Linz, Guertelstrasse 20
+4030 Linz, Raedlerweg 7
+4407 Dietach, Fachmarktring 2/1
+4470 Enns, Am Roemerfeld 9
+4400 Steyr, Seitenstettnerstrasse 1a
+4020 Linz, Blumauer Str. 3-5
+4650 Lambach, Salzburger Str. 48a
+4040 Linz, Leonfelder Str. 64
+4850 Timelkam, Ziehrerstrasse 2
+4863 Seewalchen Am Attersee, Anton-Bruckner-Strasse 1a
+4501 Neuhofen An Der Krems, Imhoffstrasse 2
+4580 Windischgarsten, Bahnhofstrasse 13
+4690 Schwanenstadt, Salzburger Strasse 38
+4663 Laakirchen, Kreuzbergstrasse 3
+4822 Bad Goisern, Laimerweg 1
+4780 Schaerding, Passauer Str. 21
+4053 Haid Ansfelden, Schulstrasse 17
+4190 Bad Leonfelden, Hochstrasse 1
+4950 Altheim, Linzer Strasse 13/Dir. Reinthaler Weg
+4910 Ried/Innkreis, Fischerstr. 13
+4655 Vorchdorf, Laudachweg 2
+4643 Pettenbach, Vorchdorferstrasse 12
+4541 Adlwang, Gewerbestrasse 1
+4560 Kirchdorf/Krems, Dr. Gaisbauer-Str. 3
+5280 Braunau, Salzburger Strasse 27
+4320 Perg, Naarner Strasse 81a
+1020 Wien, Franzensbrueckenstr. 21
+1020 Wien, Mexikoplatz 13-14
+1020 Wien, Dr. Natterergasse 1
+1020 Wien, Vorgartenstrasse 167
+1020 Wien, Ausstellungsstr. 1
+1020 Wien, Josefinengasse 2
+1020 Wien, Heinestrasse 33
+1030 Wien, Baumgasse 44
+1030 Wien, Hegergasse 11
+1030 Wien, Landstraßer Hauptstraße 58
+1030 Wien, Landstraßer Hauptstraße 148a
+1050 Wien, Margareten Guertel 116
+1050 Wien, Mittersteig 12
+1050 Wien, Siebenbrunnengasse 37
+1060 Wien, Gumpendorferstr. 139
+1100 Wien, Holbeingasse 6/Troststrasse 80
+1100 Wien, Favoritenstrasse 184
+1100 Wien, Viktor-Adler-Platz 4
+1100 Wien, Favoritenstrasse 239
+1100 Wien, Gudrunstrasse 179
+1100 Wien, Herzgasse 42-44
+1100 Wien, Davidgasse 92
+1100 Wien, Tesarekplatz 1
+1110 Wien, Thuernlhofstrasse 25
+1110 Wien, Etrichstrasse 38
+1110 Wien, Simmeringer Hauptstr. 105
+1110 Wien, Simmeringer Hauptstr. 59-61
+1120 Wien, Am Schoepfwerk 29
+1120 Wien, Arndtstr. 39/Laengenfeldg
+1120 Wien, Assmayergasse 30-32
+1120 Wien, Oswaldgasse 67l
+1140 Wien, Zehetnergasse 6
+1140 Wien, Bergmillergasse 5
+1140 Wien, Ameisgasse 40-44
+1140 Wien, Schanzstrasse 41
+1140 Wien, Breitenseer Strasse 4
+1140 Wien, Linzer Str. 262
+1140 Wien, Linzer Str. 10
+1150 Wien, Huetteldorfer Straße 73-75
+1150 Wien, Maerzstrasse 33
+4802 Ebensee, Alte Saline 9
+4840 Voecklabruck, Max-Planck-Strasse 3
+4400 Steyr, Kaserngasse 1A
+4050 Traun, Weidfeldstrasse 115a/Top 3
+5071 Wals Bei Salzburg, Franz Brötznerstrasse 17
+5020 Salzburg, Robinigstr. 3
+5020 Salzburg, Neutorstrasse 63
+5162 Obertrum/See, Jakobistrasse 19
+5542 Flachau, Feuersang 319
+5400 Hallein, Halleiner Landesstrasse 14
+5101 Bergheim, Dorfstrasse 40
+5020 Salzburg, Linzer Bundesstrasse 44
+5301 Eugendorf, Moebelstrasse 10
+5204 Strasswalchen, Neumarkterstrasse 4
+5111 Buermoos, Ignaz-Glaser Strasse 48
+5550 Radstadt, Salzburger Strasse 9
+5600 St. Johann/Pongau, Poellnstrasse 13
+5500 Bischofshofen, Gasteiner Str. 50
+5700 Zell Am See, Prof.Fery-Porsche-Str. 2
+4020 Linz, Hessenplatz 8
+4230 Pregarten, Aistfeld 2
+4210 Gallneukirchen, Lischkestrasse 1
+8950 Stainach, Salzburgerstrasse 495
+8680 Muerzzuschlag, Grazerstrasse 48
+8330 Feldbach, Gleichenbergerstrasse 43
+8430 Leibnitz, R.-H.-Bartsch-Gasse 4-6
+8430 Leibnitz, Leopold Figl Str 4
+8234 Rohrbach an der Lafnitz, Hochfeldweg 2a
+8670 Krieglach, Fressnitzerstraße 85
+1160 Wien, Lerchenfelder Guertel 55
+1160 Wien, Thaliastrasse 138
+1160 Wien, Thaliastrasse 95
+1160 Wien, Brunnengasse 40-42
+1160 Wien, Roemergasse 52
+1160 Wien, Ottakringer Str. 41
+1160 Wien, Koppstrasse 84
+1180 Wien, Gentzgasse 62
+1150 Wien, Sechshauser Str. 51
+1150 Wien, Mariahilferstrasse 135
+1160 Wien, Kreitnergasse 1-3
+8551 Wies, Bundesstrasse 76
+8712 Niklasdorf, Leobner Strasse 30
+8784 Trieben, Hauptplatz 12
+8911 Admont, Hauptstrasse 23
+8605 Kapfenberg, Grazerstrasse 81
+8940 Liezen, Gesaeusestrasse 17
+8790 Eisenerz, Hieflauer Strasse 22
+8940 Liezen, Ausseer Str. 30
+8650 Kindberg, Bahnhofstrasse 5a
+8141 Unterpremstaetten, Hauptstrasse 99
+8600 Bruck/Mur, Theodor Koerner Str. 33
+8054 Graz-Strassgang, Strassgangerstrasse 436
+8160 Weiz, Kaplanweg 2
+8045 Graz-Andritz, Andritzer Reichstrasse 32
+8101 Gratkorn, Brucker Strasse 23
+8130 Frohnleiten, Parkweg 7
+8020 Graz, Kapellenstrasse 45
+8582 Rosental/Kainach, Knappenplatz 23
+8580 Koeflach, Quergasse 3
+8723 Kobenz, Kobenzer Strasse 14
+8280 Fuerstenfeld, Grazer Strasse 17
+8700 Leoben, Kaerntner Strasse 306
+8621 Thoerl, Palbersdorf 203
+8230 Hartberg, Ressavarstrasse 5
+2700 Wiener Neustadt, Neunkirchner Strasse 54a
+2130 Mistelbach, Hauptplatz 22
+2325 Himberg, Wienerstrasse 33-35
+2120 Wolkersdorf, Wiener Strasse 29A
+2460 Bruck/Leitha, ECO-Plus Park 4, Strasse 1

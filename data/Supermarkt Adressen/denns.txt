@@ -1,0 +1,35 @@
+1160 Wien, Ottakringer Straße 186
+1180 Wien, Martinstraße 60
+1190 Wien, Sieveringer Straße 25
+1090 Wien, Alser Straße 28 - 30
+1070 Wien, Kaiserstraße 57 - 59
+1080 Wien, Josefstädter Straße 18
+1090 Wien, Julius-Tandler-Platz 6
+1070 Wien, Lindengasse 13 - 15
+1130 Wien, Lainzer Straße 11 - 13
+1120 Wien, Schönbrunnerstraße 222 - 228
+1040 Wien, Margaretenstraße 21
+1020 Wien, Taborstraße 10
+1140 Wien, Hauptstraße 33 - 35
+1040 Wien, Wiedner Hauptstraße 71
+1030 Wien, Landstraßer Hauptstraße 37
+1230 Wien, Dreiständegasse 2
+1220 Wien, Gewerbeparkstraße 12
+2380 Perchtoldsdorf, Brunner Gasse 1 - 9
+7000 Eisenstadt, Johann Pack-Straße 3 - 5
+3100 St. Pölten, Mariazellerstraße 75
+2421 Kittsee, Eisenstädter Straße 33 / k2
+8010 Graz, Plüddemanngasse 67
+8010 Graz, Joanneumring 8 - 10
+4020 Linz, Hamerlingstraße 42 - 44
+4020 Linz, Kaisergasse 17
+4020 Linz, Landstraße 111
+4600 Wels, Malvenstraße 5
+4910 Ried, Marktplatz 3
+9020 Klagenfurt, Völkermarkter Straße 160
+5020 Salzburg, Alpenstraße 75
+5020 Salzburg, Sterneckstraße 31
+9500 Villach, Bruno-Kreisky-Straße 25
+6020 Innsbruck, Amraser-See-Straße 56
+6020 Innsbruck, Anichstraße 5
+6900 Bregenz, Mariahilfstraße 1

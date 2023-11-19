@@ -1,0 +1,134 @@
+4950 Altheim, Mühlheimerstraße 10
+4813 Altmünster, Maria Theresia Straße 8
+4770 Andorf, Hauptstraße 33
+4971 Aurolzmünster, Rieder Straße 35
+4822 Bad Goisern, Obere Marktstraße 9
+4283 Bad Zell, Linzer Straße 17
+5142 Eggelsberg, B u. R Straße 3
+4101 Feldkirchen/Donau, Hauptstraße 18
+4890 Frankenmarkt, Auleitenstraße 1
+4240 Freistadt, Prager Straße 2
+4210 Gallneukirchen, Dr. Rennerstraße 1
+4673 Gaspoltshofen, Hauptstraße 63
+4810 Gmunden, Georgstrasse 6
+4293 Gutau, Vogeltennstraße 2
+4232 Hagenberg, Hauptstraße 69
+4170 Haslach, Sternwaldstraße 15
+4202 Hellmonsödt, Untere Gewerbezeile 1
+4633 Kematen am Innbach, Innbachtalstraße 54
+4062 Kirchberg-Thening, Obere Theningerstr. 16
+4280 Königswiesen, Sportplatzstraße 2
+4222 Langenstein, Hauptstraße 100
+4132 Lembach, Böhmerwaldstraße 4
+4060 Leonding, Ruflingerstrasse 17
+4040 Linz-Auberg, Nisslstraße 10
+4030 Linz-Ebelsberg, Hartheimerstraße 31
+4020 Linz, Feilstraße 11
+4030 Linz, Zeppelinstraße 12
+5230 Mattighofen, Moosstraße 3b
+5270 Mauerkirchen, Bahnhofstraße 13
+4792 Münzkirchen, An der Kreuzstr. 2
+4723 Natternbach, Pfenebergerstraße 2
+4501 Neuhofen/Krems, Linzerstraße 24
+4720 Neumarkt, Kimplingerstraße 3
+4894 Oberhofen, Oberhofen 17
+4974 Ort im Innkreis, Kammer 36
+4722 Peuerbach, Georg-von-Peuerbach-Straße 1
+4055 Pucking, Puckinger Straße 3
+4760 Raab, Marktstr. 3
+4752 Riedau, Am Dammbach 81
+4351 Saxen, Saxen 129
+4780 Schärding/Allerheiligen, Passauerstraße 38
+4780 Schärding/Weberspitz, Max-Hirschenauer-Straße 44
+4644 Scharnstein, Mühldorf 28b
+4861 Schörfling am Attersee, Gmundnerstr. 38
+5134 Schwand, Neukirchnerstr. 1/3
+4311 Schwertberg, Pergerstraße 14B
+4522 Sierning, Weichstettenerstr. 7
+4490 St.Florian, Thannstraße 20
+4222 St. Georgen, Gusentalstraße 37
+4271 St. Oswald, Freistädterstr. 38
+4400 Steyr-Christkindl, Aschacherstraße 25
+5261 Uttendorf, Bernhofer Straße 26
+4840 Vöcklabruck, Linzer Straße 15
+4870 Vöcklamarkt, Stelzhamer Strasse 17
+4655 Vorchdorf, Bahnhofstraße 18
+4391 Waldhausen, Markt 23F
+4224 Wartberg/Aist, Hauptstraße 2
+4272 Weitersfelden, Weitersfelden 116
+4600 Wels, Grieskirchnerstr. 17
+4600 Wels, Lindenstraße 7
+4600 Wels, Ringstraße 21
+3335 Weyer, Waidhofnerstraße 28
+4073 Wilhering, Eferdinger Straße 1
+4580 Windischgarsten, Gleinkerseestraße 32
+8911 Admont, Hall 545
+8992 Altaussee, Nr. 160
+8184 Anger, Roseggerstr. 19
+8454 Arnfels, Leibnitzerstr. 303
+8990 Bad Aussee, Ischlerstraße 317
+8344 Bad Gleichenberg, Grazerstraße 4
+8552 Eibiswald, Eibiswald Nr. 477
+8330 Feldbach, Hauptplatz 22-25
+8073 Feldkirchen, Anton-Bruckner-Gasse 2
+8072 Fernitz, Hausmannstättener Str. 78
+8130 Frohnleiten, Mayr-Melnhofstraße 3
+8280 Fürstenfeld, Grazerstr. 22b
+8280 Fürstenfeld, Parkstraße 6, Top 1
+8443 Gleinstätten, 240a
+8200 Gleisdorf, Ludersdorf 193
+8042 Graz, Waltendorfer Hauptstraße 121
+8962 Gröbming, Horstigstraße 899
+8452 Großklein, Nestelberg 57
+8993 Grundlsee, Bräuhof 42
+8111 Judendorf-Straßengel, Hauptplatz 3
+8301 Laßnitzhöhe, Hauptstrasse 25
+8403 Lebring, Grazerstraße 30
+8463 Leutschach, Hopfenstr. 1
+8501 Lieboch, Radlstraße 4
+8774 Mautern, Hauptstraße 32
+8680 Mürzzuschlag, Stadtplatz 6
+8820 Neumarkt, Kärntnerstraße 27
+8074 Raaba, Apothekenstraße 1
+8234 Rohrbach a.d. Lafnitz, Obere Hauptstraße 31
+8970 Schladming, Lendplatz 395
+8272 Sebersdorf, Sebersdorf 312
+8933 St. Gallen, Unterer Markt 186
+8113 St. Oswald, St. Oswald 290
+8181 St. Ruprecht, Dietmannsdorferstraße 346
+8713 St. Stefan ob Leoben, Untere Dorfstraße 2
+8472 Straß, Gewerbepark 1
+8051 Thal, Thalstraße 301
+8741 Weißkirchen, Stubalpenstr. 10
+8410 Wildon, Kainachtalstraße 7
+5421 Adnet, Adnet 400
+5431 Kuchl, Kellau 195
+5112 Lamprechtshausen, Hauptstraße 34
+5201 Seekirchen, Winterweg 22
+5204 Straßwalchen, Braunauerstraße 17a
+5071 Wals-Siezenheim, Josef Lindner Straße 8
+3345 Göstling, Stixenlehen 103
+3920 Groß-Gerungs, Gröblingerstraße 415
+3363 Hausmening, Schwarzer Weg 1
+3452 Heiligeneich, Raiffeisenplatz 7
+3343 Hollenstein a.d. Ybbs, Walcherbauer 114
+3052 Innermanzing, Gewerbepark Süd 1
+3331 Kematen, 1. Straße 41
+3433 Königstetten, Tullner-Str. 12
+3502 Krems, Gewerbeparkstrasse 8
+3500 Krems, Mühlhofstraße 1
+3382 Loosdorf, Linzer Str. 53
+3293 Lunz am See, Schulstr. 7
+3034 Maria Anzbach, Purkersdorferstraße 35
+3281 Oberndorf/Melk, Oberer Gries 32
+3124 Oberwölbling, Grimburgstrasse 2
+3244 Ruprechtshofen, Hauptstraße 29
+3353 Seitenstetten, Steyrerstraße 8A
+3352 St. Peter/Au, Ignaz-Dürrerstr. 14
+3970 Weitra, Gansberg 53
+3370 Ybbs, B1 Center Nr. 8
+3683 Yspertal, Hauptstraße 35
+3910 Zwettl, Moidrams 99
+7503 Großpetersdorf, Hauptstraße 101
+7535 St. Michael, Oberwarterstraße 339
+7551 Stegersbach, Hauptstr. 13-15

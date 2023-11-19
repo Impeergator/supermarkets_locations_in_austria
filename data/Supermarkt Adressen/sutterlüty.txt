@@ -1,0 +1,26 @@
+6870 Bezau, Bahnhof Nr. 741
+6700 Bludenz, Werdenberger Straße 3
+6900 Bregenz, Reichsstraße 1
+6850 Dornbirn, Poststraße 2
+6850 Dornbirn, Mozartstraße 1
+6850 Dornbirn, Kehlerpark 2
+6850 Dornbirn, Rohrbach 22
+6863 Egg, Pfister 1235
+6800 Feldkirch, Bahnhofstraße 40-42
+6800 Feldkirch, Egelseestraße 60
+6820 Frastanz, Feldkircherstraße 21
+6719 Gais, Thomasweg 1
+6840 Götzis, Dr. Alfons Heinzlestraße 41
+6971 Hard, Rheinstraße 99
+6952 Hittisau, Platz 199
+6845 Hohenems, Diepoldsauerstraße 55
+6923 Lauterach, Dammstraße 4
+6923 Lauterach, Karl-Hoell-Straße 12
+6911 Lochau, Hofriedenstraße 32
+6713 Ludesch, Walgaustraße 137
+6890 Lustenau, Kaiser-Franz-Josef-Straße 2
+6830 Rankweil, Landammanngasse 12
+6830 Rankweil, Stiegstrasse 44
+6780 Schruns, Batloggstraße 97
+6858 Schwarzach, Gutenbergstrasse 4
+6837 Weiler, Walgaustraße 7

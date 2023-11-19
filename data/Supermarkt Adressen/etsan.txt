@@ -1,0 +1,30 @@
+1020 Wien, Engerthstraße 148-150
+1020 Wien, Engerthstraße 191
+1030 Wien, Rennweg 59-61
+1050 Wien, Reinprechtsdorfer Straße 22
+1100 Wien, Columbusgasse 53
+1100 Wien, Knöllgasse 19-21
+1100 Wien, Pernerstorfergasse 22
+1100 Wien, Quellenstraße 65
+1100 Wien, Quellenstraße 173
+1100 Wien, Rotenhofgasse 56-62
+1110 Wien, Enkplatz 1
+1110 Wien, Simmeringer Hauptstraße 209-211
+1120 Wien, Arndtstraße 90
+1140 Wien, Hütteldorfer Straße 179
+1150 Wien, Kriemhildplatz 1
+1160 Wien, Ottakringer Straße 69
+1180 Wien, Bastiengasse 1
+1180 Wien, Währinger Straße 86
+1200 Wien, Hannovergasse 21
+1200 Wien, Klosterneuburger Straße 45
+1200 Wien, Rauscherstraße 10
+1210 Wien, Adolf-Loos-Gasse 13
+1210 Wien, Prager Straße 7
+1220 Wien, Rennbahnweg 46
+1230 Wien, Breitenfurter Straße 323
+2460 Bruck an der Leitha, Hauptplatz 13
+2514 Traiskirchen, Hauptplatz 17
+2700 Wr. Neustadt, Fischauer Gasse 43-47
+2700 Wr. Neustadt, Stadionstraße 5
+8020 Graz, Griesplatz 15
