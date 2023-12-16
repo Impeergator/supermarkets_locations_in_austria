@@ -1,7 +1,7 @@
 library(data.table)
 
 # Read the csv
-df <- setDT(read.csv('D:/Alles/Uni/Data Science Master/4. Semester/Interdisciplinary Project in Data Science/gdf_mit_walkdist_in_min.csv',
+df <- setDT(read.csv('data/gdf_mit_walkdist_in_min.csv',
                  encoding='utf-8'))
 df[, dist_unter_15km_travel := dist_km <= 1.5]
 df[, n_dist_unter_15km_travel := sum(dist_unter_15km_travel), OBJECTID]
